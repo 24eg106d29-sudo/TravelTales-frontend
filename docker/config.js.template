@@ -1,0 +1,1 @@
+window.__TRAVEL_TALES_API_URL__ = "${API_BASE_URL}";
